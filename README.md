@@ -1,4 +1,4 @@
-**This project included all necessary library for react project following:**
+**This project included all necessary libraries for react project following:**
 
 - prop-types
 - lodash
